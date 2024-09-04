@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! Sejam bem-vindos ao meu perfil! 👋
 
-<!--
-**laracarol/laracarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Sou aluna da Escola Isac de Dracena.
+- Tenho aulas de Tecnologia e estou aprendendo programação através das plataforma [Alura](https://www.alura.com.br) e [JavaScript](https://p5js.org/)
+- Vou usasr este espaço para publicar alguns de meus projetos.
 
-Here are some ideas to get you started:
+  Podem entrar em contato comigo através do email: 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+
+00001125276022sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/QGYOjLUamAkAAAAC/hello-kitty-cafe.gif)
